@@ -1,4 +1,4 @@
-# Project-Based Transactions Analysis
+# Project Transactions
 
 ## Project Overview
 This project analyzes **project-based accounts receivable transactions** to track billing, collections, credit notes, and outstanding payments across clients and projects. It helps assess revenue realization and client payment behavior.
